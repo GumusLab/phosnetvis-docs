@@ -12,5 +12,5 @@ With PhosNetVis, you can perform kinase enrichment analysis (KEA) and interactiv
 
 To get started with PhosNetVis, we offer **tutorials** that go through the steps of KEA to visualization from a phosphoproteomics dataset, specifically from SARS-CoV-2. These **tutorials** will guide you through the process of inputting your data, performing KEA, visualizing KSI networks, and exploring phosphorylation sites and states. You can also check out the **FAQ** page for further questions.
 
-[Go to Tutorials](./docs/index-test.html){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Go to FAQ](./docs/minimal-test.html){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Go to Tutorials](./docs/tutorials){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Go to FAQ](./docs/minimal-test.html){: .btn .fs-5 .mb-4 .mb-md-0 }
 ----
