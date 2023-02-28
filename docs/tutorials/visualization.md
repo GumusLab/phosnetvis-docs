@@ -38,6 +38,6 @@ In this tutorial, we will explore how to customize and visualize the output of K
 ***
 ## Final Words
 
-That's it! With this tutorial, you should now be able to customize and visualize the output of KEA analysis for better exploration and analysis of the network. In the next tutorial, we will change use network controls to change background color, node shapes and colors, labels and run a node query to search for a protein of interest!  <a href=""> ➡️ Tutorial 3 - Network Controls</a>
+That's it! With this tutorial, you should now be able to customize and visualize the output of KEA analysis for better exploration and analysis of the network. In the next tutorial, we will change use network controls to change background color, node shapes and colors, labels and run a node query to search for a protein of interest!  <a href="/docs/tutorials/network-control.html"> ➡️ Tutorial 3 - Network Controls</a>
 
 
