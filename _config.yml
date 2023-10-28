@@ -4,7 +4,7 @@ description: Documentation page for the PhosNetVis!
 theme: just-the-docs
 color_scheme: phos
 
-url: https://docs.phosnetvis.app
+url: https://gumuslab.github.io/phosnetvis-docs/
 
 aux_links:
-  Back to PhosNetVis: https://phosnetvis.app
+  Back to PhosNetVis: https://gumuslab.github.io/PhosNetVis
