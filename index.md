@@ -3,7 +3,7 @@ title: Home
 layout: home
 nav_order: 1
 ---
-![](/assets/images/docsnetvis.png)
+[![PhosNetVis](/assets/images/docsnetvis.png)](https://gumuslab.github.io/PhosNetVis/)
 
 Welcome to PhosNetVis Docs! PhosNetVis is a web-based platform for integrated kinase enrichment analyses and interactive 3D network visualizations of phosphoproteomics datasets.
 {: .fs-6 .fw-300 }
