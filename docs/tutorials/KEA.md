@@ -50,4 +50,4 @@ The Kinase Enrichment Analysis (KEA) tool is an essential part of the PhosphoNet
 ***
 ## Final Words
 
-That's it! With this tutorial, you should now be able to run a KEA analysis on your own dataset file and built your KSI network! The next tutorial will cover how to customize, upload and visualize your KSI network using PhosPhoNetVis.  <a href="/docs/tutorials/visualization.html"> ➡️ Tutorial 2 - Customization & Visualization </a>
+That's it! With this tutorial, you should now be able to run a KEA analysis on your own dataset file and built your KSI network! The next tutorial will cover how to customize, upload and visualize your KSI network using PhosPhoNetVis.  <a href="phosnetvis-docs/docs/tutorials/visualization.html"> ➡️ Tutorial 2 - Customization & Visualization </a>
