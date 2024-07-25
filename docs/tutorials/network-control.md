@@ -53,6 +53,6 @@ Welcome to the third tutorial of PhosNetVis, where we will learn how to control 
 ***
 ## Final Words
 
-That's it! With this tutorial, you should now be able to control and modify your network visualizations in PhosNetVis. In the next tutorial, we will visualize multiple networks from different timepoints, and animate then to see how phosphorylation changes! <a href="/docs/tutorials/animation.html"> ➡️ Tutorial 4 - Multiple Networks & Animation</a>
+That's it! With this tutorial, you should now be able to control and modify your network visualizations in PhosNetVis. In the next tutorial, we will visualize multiple networks from different timepoints, and animate then to see how phosphorylation changes! <a href="https://gumuslab.github.io/phosnetvis-docs/docs/tutorials/animation.html"> ➡️ Tutorial 4 - Multiple Networks & Animation</a>
 
 

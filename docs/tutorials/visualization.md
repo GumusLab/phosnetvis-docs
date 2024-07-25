@@ -17,7 +17,7 @@ In this tutorial, we will explore how to customize and visualize the output of K
 
 ![](../../assets/images/vis-tutorial/guide-table.png)
 
-**Important Note:**{: .label .label-red } In the following steps, we will be using the customized version of the network generated on<a href="/docs/tutorials/KEA.html"> Tutorial 1 - Kinase Enrichment Analysis</a>, where edges are randomly colored by adding *EdgeColor* column to the network. <a href="../../assets/tutorial-datasets/customized-network.csv" download="customized-network.csv"> ⬇️ Download Customized Network</a>
+**Important Note:**{: .label .label-red } In the following steps, we will be using the customized version of the network generated on<a href="https://gumuslab.github.io/phosnetvis-docs/docs/tutorials/KEA.html"> Tutorial 1 - Kinase Enrichment Analysis</a>, where edges are randomly colored by adding *EdgeColor* column to the network. <a href="../../assets/tutorial-datasets/customized-network.csv" download="customized-network.csv"> ⬇️ Download Customized Network</a>
 
 ***
 
@@ -47,6 +47,6 @@ In this tutorial, we will explore how to customize and visualize the output of K
 
 ## Final Words
 
-That's it! With this tutorial, you should now be able to customize and visualize the output of KEA analysis for better exploration and analysis of the network. In the next tutorial, we will change use network controls to change background color, node shapes and colors, labels and run a node query to search for a protein of interest!  <a href="/docs/tutorials/network-control.html"> ➡️ Tutorial 3 - Network Controls</a>
+That's it! With this tutorial, you should now be able to customize and visualize the output of KEA analysis for better exploration and analysis of the network. In the next tutorial, we will change use network controls to change background color, node shapes and colors, labels and run a node query to search for a protein of interest!  <a href="https://gumuslab.github.io/phosnetvis-docs/docs/tutorials/network-control.html"> ➡️ Tutorial 3 - Network Controls</a>
 
 

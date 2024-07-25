@@ -40,4 +40,4 @@ Welcome to the last tutorial of PhosNetVis! this tutorial, we will learn how to 
 ***
 
 ## Final Words
-That's it! With this tutorial, you should now be able to create and visualize multiple networks and create an animation of those networks using the PhosNetVis tool. This was the final tutorial, feel free to reach us by filling the "Contact Us" form if you have any questions or suggestions!  <a href="https://phosnetvis.app/contact-us.html" target="_blank"> ➡️ Contact Us</a> 
+That's it! With this tutorial, you should now be able to create and visualize multiple networks and create an animation of those networks using the PhosNetVis tool. This was the final tutorial, feel free to reach us by filling the "Contact Us" form if you have any questions or suggestions!  <a href="https://gumuslab.github.io/PhosNetVis/contact-us.html" target="_blank"> ➡️ Contact Us</a> 
