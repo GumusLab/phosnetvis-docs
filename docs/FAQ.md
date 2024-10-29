@@ -13,7 +13,7 @@ No PhosNetVis does not requires you to login.
 <br>
 <b>2.) What are some other tools which can be used for doing Kinase-substrate enrichment analysis?
 <br>
-If the users have GeneId and residue Ids then <a href="https://casecpb.shinyapps.io/ksea/" target="_blank">KSEA tool<a> can be used.
+If the users have GeneId and residue Ids then <a href="https://casecpb.shinyapps.io/ksea/" target="_blank">KSEA tool</a> can be used.
 <br>
 <br>
 <b>3.) What is phosphorylation and why is it important?</b>
