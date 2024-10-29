@@ -11,6 +11,11 @@ FAQ
 No PhosNetVis does not requires you to login.
 <br>
 <br>
+<b>2.) What are some other tools which can be used for doing Kinase-substrate enrichment analysis?
+<br>
+If the users have GeneId and residue Ids then <a href="https://casecpb.shinyapps.io/ksea/">KSEA tool<a> can be used.
+<br>
+<br>
 <b>2.) What is phosphorylation and why is it important?</b>
 <br>
 Phosphorylation is a process where a phosphate group is added to a protein. This tiny modification can have major effects:<br>
