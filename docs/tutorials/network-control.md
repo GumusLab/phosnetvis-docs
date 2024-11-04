@@ -57,6 +57,9 @@ Welcome to the third tutorial of PhosNetVis, where we will learn how to control 
 
 **Gene Enrichment Analysis:** To do the gene enrichment of all the nodes in the network, click on the "Send genes to Enrichr" button in the Gene Enrichment Analysis section. Once the button is clicked a new Enrichr window will pop up with all the nodes which were there in the network. If there are protein accession Ids in the network instead of gene Ids, the function will take little extra seconds to map the protein accession Ids to gene Ids using the UniProt Api and then sends the corresponding gene Ids to the enrichr. Pathway analysis can be done on the Enrichr.
 
+
+![](../../assets/images/control-tutorial/cont-step6.gif)
+
 ***
 ## Final Words
 
