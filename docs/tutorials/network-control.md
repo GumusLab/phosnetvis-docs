@@ -7,7 +7,7 @@ nav_order: 3
 
 # Network Controls
 
-Welcome to the third tutorial of PhosNetVis, where we will learn how to control and modify network visualizations. In this tutorial, we will cover various features that allow users to customize their network visualization as per their requirements. **Let's get started!**
+Welcome to the third tutorial of PhosNetVis, where we will learn how to control and modify network visualizations. In this tutorial, we will cover various features that allow users to customize their network visualization as per their requirements. **Let's get started!**, make sure to also check the what's new section in the bottom.
 
 ***
 
@@ -49,6 +49,13 @@ Welcome to the third tutorial of PhosNetVis, where we will learn how to control 
 
 
 ![](../../assets/images/control-tutorial/cont-step5.gif)
+
+***
+## What's new ?
+
+### Step #6
+
+**Gene Enrichment Analysis:** To do the gene enrichment of all the nodes in the network, click on the "Send genes to Enrichr" button in the Gene Enrichment Analysis section. Once the button is clicked a new Enrichr window will pop up with all the nodes which were there in the network. If there are protein accession Ids in the network instead of gene Ids, the function will take little extra seconds to map the protein accession Ids to gene Ids using the UniProt Api and then sends the corresponding gene Ids to the enrichr. Pathway analysis can be done on the Enrichr.
 
 ***
 ## Final Words
