@@ -1,13 +1,13 @@
 ---
 layout: default
 parent: Tutorials
-title: Tutorial 1 - Kinase Enrichment Analysis
+title: Tutorial 1 - Fast Kinase Substrate Enrichment Analysis
 nav_order: 1
 ---
 
-# Kinase Enrichment Analysis
+# Fast Kinase Substrate Enrichment Analysis
 
-The Kinase Enrichment Analysis (KEA) tool is an essential part of the PhosphoNetVis platform, allowing users to analyze their phosphoproteomic datasets and identify potential kinase targets. This step-by-step tutorial will guide you through the process of running a KEA analysis on your own data, starting from the download of the necessary file to the creation of a Kinase-Substrate Interaction (KSI) network. No prior knowledge of the KEA tool is required, as we will provide all the necessary information to successfully complete the tutorial. **Let's get started!**
+The fast Kinase Substrate Enrichment Analysis (fKSEA) page allows users to infer potential upstream kinases from user provided phosphoproteomic datasets. This step-by-step tutorial will guide you through the process of running a fKSEA analysis on your own data, starting from the download of the necessary file to the creation of a Kinase-Substrate Interaction (KSI) network. No prior knowledge of the fKSEA algorithm is required, as we will provide all the necessary information to successfully complete the tutorial. **Let’s get started!**
 
 ***
 
@@ -19,7 +19,7 @@ The Kinase Enrichment Analysis (KEA) tool is an essential part of the PhosphoNet
 ***
 
 ### Step #2
-**Data Format & Parameters:** Before running the analysis, take a look at the required data format and customizable parameters listed on the KEA page. If you hover over each parameter, a tooltip will appear that describes its function. **For this tutorial, we won't be changing any of the parameters.**
+**Data Format & Parameters:** Before running the analysis, take a look at the required data format and customizable parameters listed on the fKSEA page. If you hover over each parameter, a tooltip will appear that describes its function. **For this tutorial, we won't be changing any of the parameters.**
 
 ![](../../assets/images/kea-tutorial/kea-step2.gif)
 
@@ -27,7 +27,7 @@ The Kinase Enrichment Analysis (KEA) tool is an essential part of the PhosphoNet
 
 ### Step #3
 
-**Upload Data & Run Analysis:** After you have the dataset file, navigate to the "Upload Data & Run Analysis" section on the KEA page. Click on the "Browse" button and select the file you downloaded in step 1. Then click on the "Run" button to start the analysis.
+**Upload Data & Run Analysis:** After you have the dataset file, navigate to the "Upload Data & Run Analysis" section on the fKSEA page. Click on the "Browse" button and select the file you downloaded in step 1. Then click on the "Run" button to start the analysis.
 
 ![](../../assets/images/kea-tutorial/kea-step3.gif)
 
@@ -50,4 +50,4 @@ The Kinase Enrichment Analysis (KEA) tool is an essential part of the PhosphoNet
 ***
 ## Final Words
 
-That's it! With this tutorial, you should now be able to run a KEA analysis on your own dataset file and built your KSI network! The next tutorial will cover how to customize, upload and visualize your KSI network using PhosPhoNetVis.  <a href="https://gumuslab.github.io/phosnetvis-docs/docs/tutorials/visualization.html"> ➡️ Tutorial 2 - Customization & Visualization </a>
+That's it! With this tutorial, you should now be able to run a fKSEA analysis on your own dataset file and built your KSI network! The next tutorial will cover how to customize, upload and visualize your KSI network using PhosPhoNetVis.  <a href="https://gumuslab.github.io/phosnetvis-docs/docs/tutorials/visualization.html"> ➡️ Tutorial 2 - Network Input & Visualization </a>
