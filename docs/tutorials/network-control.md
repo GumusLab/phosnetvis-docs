@@ -55,7 +55,7 @@ Welcome to the third tutorial of PhosNetVis, where we will learn how to control 
 
 ### Step #6
 
-**Gene Enrichment Analysis:** To do the gene enrichment of all the nodes in the network, click on the "Send genes to Enrichr" button in the Gene Enrichment Analysis section. Once the button is clicked a new Enrichr window will pop up with all the nodes which were there in the network. If there are protein accession Ids in the network instead of gene Ids, the function will take little extra seconds to map the protein accession Ids to gene Ids using the UniProt Api and then sends the corresponding gene Ids to the enrichr. Pathway analysis can be done on the Enrichr.
+**Gene Enrichment Analysis:** To perform gene enrichment of all the nodes in your KSI network, click on the “Send genes to Enrichr” button in the Gene Enrichment Analysis section in the Control Panel. Once this button is clicked, a new Enrichr window will pop up, which will include a list of all network nodes in HUGO GeneIDs. If your network nodes include Protein Accession IDs (instead of HUGO Gene IDs), this function will first map them to HUGO Gene IDs using the UniProt API, and then send the corresponding gene IDs to Enrichr.  You can then perform a variety of enrichment analyses in Enrichr.
 
 
 ![](../../assets/images/control-tutorial/cont-step6.gif)
