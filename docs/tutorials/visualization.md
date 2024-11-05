@@ -1,29 +1,29 @@
 ---
 layout: default
 parent: Tutorials
-title: Tutorial 2 - Customization & Visualization
+title: Tutorial 2 - Network Input & Visualization
 nav_order: 2
 ---
 
-# Customization & Visualization
+# Network Input & Visualization
 
-In this tutorial, we will explore how to customize and visualize the output of Kinase Enrichment Analysis (KEA) using PhosNetVis. KEA is a tool that allows you to identify kinases that are likely to be responsible for the observed phosphorylation patterns in a given dataset. Once the KEA analysis is complete, you can customize the output network by adding additional columns of data. After customization, you can upload the network files to PhosNetVis for 3D visualization. PhosNetVis provides interactive features for exploring the network, such as rotating, zooming, panning, and viewing node information. By the end of this tutorial, you will be able to customize and visualize the output of KEA analysis for better exploration and analysis of the network. **Let's get started!**
+In this tutorial, we will explore how to customize and visualize a KSI network using PhosNetVis. A kinase enrichment analysis, including but not limited to our FKSEA page, allows you to infer kinases upstream of the observed phosphorylation patterns in a given dataset. Once this kinase enrichment analysis is complete, you can visualize it directly in PhosNetVis. Alternatively, if you have generated the KSI network using another enrichment tool, or would like to customize your KSI network further, this is very easy and convenient to do in the network visualization input file!  Just make sure that your input file adheres to the format below for node and edge attributes you would like to customize. In fact, the PhosNetVis network visualization page is fully flexible, and adaptable to any biomolecular network. You can visualize any two connected nodes, not only kinases and substrates, provided that you lable the source and target columns as "Kinase ID" and "Target ID" (e.g. protein, genes, metabolites, etc). This functionality makes the network visualization page adaptable to diverse datasets beyond phosphorylation.  You can then upload your network files to PhosNetVis for 2D or 3D visualization. PhosNetVis provides interactive features for exploring the network, such as rotating, zooming, panning, and viewing node information. By the end of this tutorial, you will be able to customize results from any kinase enrichment analysis tool for better visual exploration and analysis in PhosNetVis. **Let’s get started!**
 
 ***
 
 ### Step #1
 
-**Customize the network:** The output file of KEA analysis, or a network file in a correct format can be customized by adding additional columns according to the guide table provided below, using a spreadsheet software or by custom scripts on R & Python. The guide table will show what kind of data can be added to built or customize a network for specific needs.
+**Customize the network:** After running fKSEA, you can directly visualize your network in PhosNetVis network visualization page. Alternatively, you can input any KSI or other biomolecular network data as input, provided that you adhere to formatting requirements listed in the Upload Network section. Furthermore, you can add  additional customizations of any network by adding additional attribute columns for the network nodes and edges according to the guide table provided below, using a spreadsheet software or by custom scripts on R & Python. The guide table provides information on how to incorporate additional edge and node attributes to your network, based on your needs.
 
 ![](../../assets/images/vis-tutorial/guide-table.png)
 
-**Important Note:**{: .label .label-red } In the following steps, we will be using the customized version of the network generated on<a href="https://gumuslab.github.io/phosnetvis-docs/docs/tutorials/KEA.html"> Tutorial 1 - Kinase Enrichment Analysis</a>, where edges are randomly colored by adding *EdgeColor* column to the network. <a href="../../assets/tutorial-datasets/customized-network.csv" download="customized-network.csv"> ⬇️ Download Customized Network</a>
+**Important Note:**{: .label .label-red } In the following steps, we will be using the customized version of the network generated on<a href="https://gumuslab.github.io/phosnetvis-docs/docs/tutorials/KEA.html"> Tutorial 1 - Fast Kinase Substrate Enrichment Analysis</a>, where edges are randomly colored by adding *EdgeHue* column to the network. <a href="../../assets/tutorial-datasets/customized-network.csv" download="customized-network.csv"> ⬇️ Download Customized Network</a>
 
 ***
 
 ### Step #2
 
-**Upload Networks for Visualization:** In the next step, you will need to upload the network files for visualization. Enter the number of networks you want to visualize and select these files. After selecting them, click on the "Upload" button to start the visualization process.
+**Upload Networks for Visualization:** While fKSEA output can be directly visualized in the network visualization page, if you have a generated the KSI network using another enrichment tool, or customized your network file further, or have more than one network file, you will need to upload the network files for visualization. Enter the number of networks you want to visualize and select these files. After selecting them, click on the “Upload” button to start the visualization process.
 
 ![](../../assets/images/vis-tutorial/vis-step2.gif)
 
