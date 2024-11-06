@@ -6,14 +6,14 @@ title: FAQ Page
 FAQ
 ---
 ---
-<b>1.) Does PhosNetVis requires the users to login?</b>
+<b>1.) Does PhosNetVis require the users to login?</b>
 <br>
-No PhosNetVis does not requires you to login.
+No PhosNetVis does not require you to login.
 <br>
 <br>
-<b>2.) What are some other tools which can be used for doing Kinase-substrate enrichment analysis?</b>
+<b>2.) What are alternative tools to fKSEA for conducting kinase-substrate enrichment analysis?</b>
 <br>
-If the users have GeneId and residue Ids then <a href="https://casecpb.shinyapps.io/ksea/" target="_blank">KSEA tool</a> can be used. Some other tools are <a href="https://maayanlab.cloud/kea3/" target="_blank">KEA3</a> and <a href="https://github.com/CutillasLab/KSEA_professional" target="_blank">KSEA professional</a>.
+Some other tools commonly used in the literature are <a href="https://casecpb.shinyapps.io/ksea/" target="_blank">KSEA</a>,<a href="https://maayanlab.cloud/kea3/" target="_blank">KEA3</a> and <a href="https://github.com/CutillasLab/KSEA_professional" target="_blank">KSEA professional</a>.
 <br>
 <br>
 <b>3.) What is phosphorylation and why is it important?</b>
@@ -35,5 +35,12 @@ A KSI network shows how kinases (special proteins) interact with other proteins 
 <b>5.) Does PhosNetVis store data on a server?</b>
 <br>
 PhosnetVis runs on the client browser window. All modules except fGSEA(fast gene-set enrichment algorithm) run on the local browser. For fGSEA, the data are sent to a HIPAA-compliant server at the Icahn School of Medicine, through a HTTPS protocol which is safe and secure. Once the fGSEA is run, no data is stored on the server.
+<br>
+<br>
+<b>6.) I have my data in gene ID format instead of Protein ID format. Can I still use PhosNetvis?</b>
+<br>
+Yes, absolutely! For fKSEA analyses, you need to first convert the gene IDs to Protein Accession IDs using an API such as <a href="https://www.uniprot.org/id-mapping" target="_blank">UniProt</a>. Then, you can run fKSEA analysis. For Network Visualization, you can upload your data in gene ID format directly to the "Upload Data for Visualization" section.
+<br>
+
 
 
