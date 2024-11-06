@@ -10,14 +10,14 @@ nav_order: 4
 Welcome to the last tutorial of PhosNetVis! this tutorial, we will learn how to visualize multiple networks and create an animation of the networks using the PhosNetVis tool. We will use six provided datasets curated from SARS-CoV-2 phosphorylations to create the networks and visualize them. **Let's get started!**
 
 ### Step #1
-**Download the datasets:** The first step is to download a dataset that is in the correct format file for analysis. You can use the example file provided by clicking on the "Download Sample Data" link below.
+**Download Sample Datasets:** The first step is to download a dataset that is in the correct format file for analysis. You can use the example file provided by clicking on the "Download Sample Data" link below.
 
-<a href="../../assets/tutorial-datasets/animation-datasets.zip" download="animations-datasets.zip"> ⬇️ Download Datasets</a>
+<a href="../../assets/tutorial-datasets/animation-datasets.zip" download="animations-datasets.zip"> ⬇️ Download Sample Data</a>
 
 ***
 
 ### Step #2
-**Upload and visualize the datasets:** Once you have downloaded the datasets, go to the PhosNetVis website and navigate to the "Visualization" page, and upload 6 datasets. Make sure *Number of Datasets* parameter is 6 in the visualization page.
+**Upload and visualize the datasets:** Once you have downloaded the sample datasets, go to the PhosNetVis website and navigate to the "Visualization" page, and upload 6 datasets. Make sure *Number of Datasets* parameter is 6 in the visualization page.
 
 ![](../../assets/images/animation-tutorial/animation-step2.gif)
 
