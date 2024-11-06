@@ -43,11 +43,11 @@ The fast Kinase Substrate Enrichment Analysis (fKSEA) page allows users to infer
 
 ### Step #5
 
-**Download KSI Network:** Click on the "Download" button to download the KSI network file that was generated as a result of the analysis, and examine the file. This file will be used to visualize the network. Note that the visualization of this network will be shown in the next tutorial.
+**Option 1: Download the KSI network result:** Click on the "Download" button to download the KSI network file that was generated as a result of the analysis, and examine the file. This file will be used to visualize the network. Note that the visualization of this network will be shown in the next tutorial.
 
 ![](../../assets/images/kea-tutorial/kea-step5.gif)
 
-**Visualize KSI Network:** Click on the "Visualize Network" button to explore the KSI network file generated from your analysis. This feature allows you to immediately view the analyzed file directly from this page, eliminating the need to re-upload it on the network upload page. Simply click the button to dive right into the network visualization.
+**Option 2: Visualize the KSI network result:** Click on the "Visualize Network" button to explore the KSI network file generated from your analysis. This feature allows you to immediately view the analyzed file directly from this page, eliminating the need to re-upload it on the network upload page. Simply click the button to dive right into the network visualization.
 
 ![](../../assets/images/kea-tutorial/kea-step6.gif)
 
