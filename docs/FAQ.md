@@ -13,7 +13,7 @@ No PhosNetVis does not require you to login.
 <br>
 <b>2.) What are alternative tools to fKSEA for conducting kinase-substrate enrichment analysis?</b>
 <br>
-Some other tools commonly used in the literature are <a href="https://casecpb.shinyapps.io/ksea/" target="_blank">KSEA</a>,<a href="https://maayanlab.cloud/kea3/" target="_blank">KEA3</a> and <a href="https://github.com/CutillasLab/KSEA_professional" target="_blank">KSEA professional</a>.
+Some other tools commonly used in the literature are <a href="https://casecpb.shinyapps.io/ksea/" target="_blank">KSEA</a>,<a href="https://maayanlab.cloud/kea3/" target="_blank">KEA3</a>,<a href="https://rokai.io/" target="_blank">RoKAI App</a>,<a href="https://github.com/CutillasLab/KSEA_professional" target="_blank">KSEA professional</a> and <a href="http://phosfate.com/profiler.html" target="_blank">PhosFate</a>.
 <br>
 <br>
 <b>3.) What is phosphorylation and why is it important?</b>
